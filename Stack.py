@@ -1,4 +1,5 @@
-from ROOT import *
+from ROOT import TFile, THStack, TH1F, TCanvas, gPad, gROOT, TLegend
+from ROOT import TLatex
 from RootPlottingCore import *
 import optparse
 import os

@@ -3,7 +3,9 @@
 # We can also make all thoese configurable but    #
 # they are simple enough to be changed on the fly #
 ###################################################
-from ROOT import *
+
+from ROOT import TFile, THStack, TH1F, TCanvas, gPad, gROOT, TLegend
+from ROOT import TLatex
 
 def AtlasLabel(x,y,shift,text="",color=1,size=0.06): 
   l=TLatex() 

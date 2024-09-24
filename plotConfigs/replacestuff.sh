@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory containing the Python files
-directory_path="$PWD"
+directory_path="$(PWD)"
 
 # Array of search and replace strings
 declare -a replacements=(

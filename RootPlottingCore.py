@@ -2,8 +2,9 @@ import os,sys,re
 from pathlib import Path
 from math import *
 from array import *
-from ROOT import *
-
+from ROOT import TLegend
+from ROOT import TLatex
+from ROOT import TFile, THStack, TH1F, TCanvas, gPad, gROOT
 from Cosmetics import *
 
 

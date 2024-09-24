@@ -25,7 +25,7 @@ taskSetup = {
 }
 compareSources = {
   "1" : {
-    "filePath"    :   "/afs/cern.ch/work/s/sgoswami/public/taunvnvlq/run_100001/out.root",
+    "filePath"    :   "/afs/cern.ch/work/s/sgoswami/public/monobc_packages/taunvnvlq/run_100001/out.root",
     "histPath"    :   ["eta_c"],
     "color"       :   4,
     "style"       :   21,
@@ -33,7 +33,7 @@ compareSources = {
     "legendLabel" :   "m_{LQ} = 0.5 TeV",
   },
   "2" : {
-    "filePath"    :   "/afs/cern.ch/work/s/sgoswami/public/taunvnvlq/run_100002/out.root",
+    "filePath"    :   "/afs/cern.ch/work/s/sgoswami/public/monobc_packages/taunvnvlq/run_100002/out.root",
     "histPath"    :   ["eta_c"],
     "color"       :   2,
     "style"       :   22,
@@ -41,7 +41,7 @@ compareSources = {
     "legendLabel" :   "m_{LQ} = 1 TeV",
   },
   "3" : {
-    "filePath"    :   "/afs/cern.ch/work/s/sgoswami/public/taunvnvlq/run_100003/out.root",
+    "filePath"    :   "/afs/cern.ch/work/s/sgoswami/public/monobc_packages/taunvnvlq/run_100003/out.root",
     "histPath"    :   ["eta_c"],
     "color"       :   6,
     "style"       :   23,
@@ -49,7 +49,7 @@ compareSources = {
     "legendLabel" :   "m_{LQ} = 1.4 TeV",
   },
   "4" : {
-    "filePath"    :   "/afs/cern.ch/work/s/sgoswami/public/taunvnvlq/run_100004/out.root",
+    "filePath"    :   "/afs/cern.ch/work/s/sgoswami/public/monobc_packages/taunvnvlq/run_100004/out.root",
     "histPath"    :   ["eta_c"],
     "color"       :   7,
     "style"       :   24,
@@ -57,7 +57,7 @@ compareSources = {
     "legendLabel" :   "m_{LQ} = 2 TeV",
   },
   "5" : {
-    "filePath"    :   "/afs/cern.ch/work/s/sgoswami/public/taunvnvlq/run_100005/out.root",
+    "filePath"    :   "/afs/cern.ch/work/s/sgoswami/public/monobc_packages/taunvnvlq/run_100005/out.root",
     "histPath"    :   ["eta_c"],
     "color"       :   8,
     "style"       :   25,
@@ -65,7 +65,7 @@ compareSources = {
     "legendLabel" :   "m_{LQ} = 2.5 TeV",
   },
   "6" : {
-    "filePath"    :   "/afs/cern.ch/work/s/sgoswami/public/taunvnvlq/run_100006/out.root",
+    "filePath"    :   "/afs/cern.ch/work/s/sgoswami/public/monobc_packages/taunvnvlq/run_100006/out.root",
     "histPath"    :   ["eta_c"],
     "color"       :   9,
     "style"       :   26,
