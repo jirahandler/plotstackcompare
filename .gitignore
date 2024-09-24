@@ -1,0 +1,8 @@
+*.png
+*.root
+*.swp
+*.swo
+*.DB*
+__pycache__
+*.o
+
